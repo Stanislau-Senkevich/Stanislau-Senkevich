@@ -20,5 +20,5 @@ Here are some of the technologies and tools I work with:
 ## 📫 Get in Touch
 
 - Telegram: @senkevich_s
-- LinkedIn: [Stanislau Senkevich](https://www.linkedin.com/in/john-doe/](https://www.linkedin.com/in/stanislau-senkevich-17344a264/)https://www.linkedin.com/in/stanislau-senkevich-17344a264/)
+- LinkedIn: https://www.linkedin.com/in/john-doe/](https://www.linkedin.com/in/stanislau-senkevich-17344a264/)https://www.linkedin.com/in/stanislau-senkevich-17344a264/
 - Email: it.senkevich@gmail.com
