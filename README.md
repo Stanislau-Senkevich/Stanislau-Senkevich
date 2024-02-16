@@ -1,6 +1,6 @@
 ## 📚 About Me
 
-Ambitious student with fairly complete mathematical base and greate desire to apply knowledge in practice. I am looking for a part-time job or traineeship to enrich my knowledge of IT industry and develop my skills in programming.
+Ambitious student with fairly complete mathematical base and greate desire to apply knowledge in practice. I am looking for a job or traineeship to enrich my knowledge of IT industry and develop my skills in programming.
 
 ## 🛠️ Technologies & Tools
 
@@ -29,4 +29,5 @@ Here are some of the technologies and tools I work with:
 - Telegram: [@senkevich_s](https://t.me/senkevich_s)
 - LinkedIn: [Stanislau Senkevich](https://www.linkedin.com/in/stanislau-senkevich-17344a264/)
 - Email: it.senkevich@gmail.com
+- CV: https://bit.ly/SenkevichCV
 
