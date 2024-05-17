@@ -1,6 +1,6 @@
 ## 📚 About Me
 
-Ambitious student with fairly complete mathematical base and greate desire to apply knowledge in practice. I am looking for a job or traineeship to enrich my knowledge of IT industry and develop my skills in programming.
+BSU FAMCS student, currently waiting for starting summer internship in Yandex. 
 
 ## 🛠️ Technologies & Tools
 
