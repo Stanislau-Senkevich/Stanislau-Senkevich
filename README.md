@@ -1,6 +1,6 @@
 ## 📚 About Me
 
-BSU FAMCS student, currently waiting for start of the summer internship in Yandex. 
+BSU FAMCS student, Yandex SWE
 
 ## 🛠️ Technologies & Tools
 
