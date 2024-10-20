@@ -29,5 +29,4 @@ Here are some of the technologies and tools I work with:
 - Telegram: [@senkevich_s](https://t.me/senkevich_s)
 - LinkedIn: [Stanislau Senkevich](https://www.linkedin.com/in/stanislau-senkevich-17344a264/)
 - Email: it.senkevich@gmail.com
-- CV: https://bit.ly/SenkevichCV
 
