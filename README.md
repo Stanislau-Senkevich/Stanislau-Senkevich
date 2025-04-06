@@ -1,6 +1,6 @@
 ## 📚 About Me
 
-BSU FAMCS student, Yandex SWE
+BSU FAMCS student, Ethflow SWE, ex-Yandex
 
 ## 🛠️ Technologies & Tools
 
